@@ -51,6 +51,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import hmt from "./HalanintProject.png";
 import tfn from "./trufingProject.png";
+import golri from "./golriProject.png";
+import capte from "./capteProject.png";
 import atlk from "./Antike.png";
 import crp from "./cryptofoot.png";
 import tripguide from "./tripguide.png";
@@ -58,6 +60,7 @@ import tripguide from "./tripguide.png";
 import mnif from "./mohamedMnif.jpg";
 import asma from "./asma.jpg";
 import hatem from "./hatem.png";
+
 export {
   logo,
   backend,
@@ -115,4 +118,6 @@ export {
   mnif,
   asma,
   hatem,
+  golri,
+  capte,
 };

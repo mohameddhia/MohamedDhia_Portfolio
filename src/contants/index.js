@@ -55,6 +55,8 @@ import {
   mnif,
   asma,
   hatem,
+  golri,
+  capte,
 } from "../assets";
 
 export const navLinks = [
@@ -272,6 +274,56 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Golri",
+    description:
+      "The first application 100% dedicated to humor, connecting spectators, comedy clubs, and artists. Features automated ticketing, artist pre-qualification, and personalized comedy recommendations.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TypeScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: golri,
+    source_code_link: "https://golri.app/",
+  },
+  {
+    name: "Capte Dashboard",
+    description:
+      "A comprehensive dashboard for plantation management and ecological transition. Tracks agroforestry impacts, biodiversity conservation, and carbon sequestration methodology for sustainable agriculture.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Express.js",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Data Visualization",
+        color: "green-text-gradient",
+      },
+    ],
+    image: capte,
+    source_code_link: "https://appli.capte.tn/",
+  },
   {
     name: "Halamint | هلامنت",
     description:
