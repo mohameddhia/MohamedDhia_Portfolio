@@ -18,46 +18,46 @@ import neo4js from "./tech/neo4j.png";
 import nodejs from "./tech/nodejs.png";
 import bun from "./tech/bun.png";
 import reactjs from "./tech/reactjs.png";
-import nextjs from "./tech/nextjs.png"
-import expressjs from "./tech/expressjs.png"
+import nextjs from "./tech/nextjs.png";
+import expressjs from "./tech/expressjs.png";
 import nestjs from "./tech/nestjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import python from "./tech/python.png"
+import python from "./tech/python.png";
 import threejs from "./tech/threejs.png";
-
+import graphql from "./tech/graphql.png";
 
 import solidity from "./tech/solidity.png";
 import hardhat from "./tech/hardhat.png";
 import foundry from "./tech/foundry.png";
 import truffle from "./tech/truffle.png";
 import brownie from "./tech/brownie.png";
-import theGraph from './tech/TheGraph.png';
-import chainLink from './tech/chainLink.png';
-import openZeppelin from './tech/OpenZeppelin.png';
-import linux from "./tech/linux.png"
+import theGraph from "./tech/TheGraph.png";
+import chainLink from "./tech/chainLink.png";
+import openZeppelin from "./tech/OpenZeppelin.png";
+import linux from "./tech/linux.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import st from './company/stLogo.png';
-import nethermind from './company/nethermind.png';
-import darBlockchain from './company/darBlockchain.png';
-import bpp from './company/blockplusplus.png';
-import halamint from './company/halamint.svg';
+import st from "./company/stLogo.png";
+import nethermind from "./company/nethermind.png";
+import darBlockchain from "./company/darBlockchain.png";
+import bpp from "./company/blockplusplus.png";
+import halamint from "./company/halamint.svg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import hmt from "./HalanintProject.png"
-import tfn from "./trufingProject.png"
-import atlk from "./Antike.png"
-import crp from "./cryptofoot.png"
+import hmt from "./HalanintProject.png";
+import tfn from "./trufingProject.png";
+import atlk from "./Antike.png";
+import crp from "./cryptofoot.png";
 import tripguide from "./tripguide.png";
 
-import mnif from './mohamedMnif.jpg';
-import asma from './asma.jpg';
-import hatem from "./hatem.png"
+import mnif from "./mohamedMnif.jpg";
+import asma from "./asma.jpg";
+import hatem from "./hatem.png";
 export {
   logo,
   backend,
@@ -86,6 +86,7 @@ export {
   typescript,
   python,
   threejs,
+  graphql,
   solidity,
   hardhat,
   foundry,

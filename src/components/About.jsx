@@ -44,12 +44,11 @@ const About = () => {
       <motion.p variants={fadeIn('', '' , 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Software Engineer with over 6 years of experience,  
-      including 4 years in blockchain. 
-      As CTO and co-founder of Halamint and Block Plus Plus, 
-      I lead innovative projects in the sports industry powered by blockchain technology. 
-      I specialize in smart contract development and Web3 solutions, and I'm passionate about teaching emerging technologies. 
-      Fluent in French, English, and Arabic, I am eager to take on new challenges in the blockchain sector.
+      Senior Full Stack Engineer with 6+ years of experience in designing, developing, and deploying scalable
+      web, cloud, and distributed applications. Specialized in JavaScript / TypeScript, React, and Node.js, with
+      strong expertise in microservices architectures, DevOps practices, and AWS cloud environments. Proven
+      experience as a Technical Lead and CTO, delivering high-performance, product-oriented solutions from
+      design to production.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service , index) =>(

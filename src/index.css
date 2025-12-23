@@ -44,7 +44,7 @@
 }
 
 .green-pink-gradient {
-  background: "#00cea8";
+  background: #00cea8;
   background: linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
   background: -webkit-linear-gradient(-90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
 }
@@ -114,36 +114,23 @@
   -webkit-text-fill-color: transparent;
 }
 .grey-text-gradient {
-  background: #A0A0A0;
-  background: -webkit-linear-gradient(
-    to top,
-    #A0A0A0,
-    #808080
-  );
+  background: #a0a0a0;
+  background: -webkit-linear-gradient(to top, #a0a0a0, #808080);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .red-text-gradient {
-  background: #FF0000;
-  background: -webkit-linear-gradient(
-    to top,
-    #FF0000,
-    #FF4040
-  );
+  background: #ff0000;
+  background: -webkit-linear-gradient(to top, #ff0000, #ff4040);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .yellow-text-gradient {
-  background: #FFFF00;
-  background: -webkit-linear-gradient(
-    to top,
-    #FFFF00,
-    #FFFF80
-  );
+  background: #ffff00;
+  background: -webkit-linear-gradient(to top, #ffff00, #ffff80);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
 
 /* canvas- styles */
 .canvas-loader {
