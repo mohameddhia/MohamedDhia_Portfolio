@@ -46,7 +46,6 @@ import st from "./company/stLogo.png";
 import nethermind from "./company/nethermind.png";
 import darBlockchain from "./company/darBlockchain.png";
 import bpp from "./company/blockplusplus.png";
-import otraLogo from "./company/otravers.png";
 import halamint from "./company/halamint.svg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,7 +53,7 @@ import hmt from "./HalanintProject.png";
 import tfn from "./trufingProject.png";
 import golri from "./golriProject.png";
 import capte from "./capteProject.png";
-import otravers from "./OtraversProject.png";
+import otravers from ''
 import atlk from "./Antike.png";
 import crp from "./cryptofoot.png";
 import tripguide from "./tripguide.png";
@@ -108,7 +107,6 @@ export {
   st,
   nethermind,
   darBlockchain,
-  otraLogo,
   bpp,
   halamint,
   carrent,
@@ -123,5 +121,4 @@ export {
   hatem,
   golri,
   capte,
-  otravers,
 };

@@ -58,7 +58,6 @@ import {
   golri,
   capte,
   otravers,
-  otraLogo
 } from "../assets";
 
 export const navLinks = [
@@ -178,7 +177,7 @@ const experiences = [
   {
     title: "Chief Technology Officer (CTO)",
     company_name: "Otraverse",
-    icon: otraLogo, // Placeholder for Otraverse
+    icon: web, // Placeholder for Otraverse
     iconBg: "#383E56",
     date: "2025 - Present",
     points: [
@@ -279,7 +278,7 @@ const projects = [
     {
       name: "Otravers",
       description:
-        "A gamified metaverse platform that unifies local maps and immersive gaming, rewarding exploration and enabling users to create, shop, and interact in a digital playground.",
+        "Otravers is committed to redefining the way people explore, shop, and interact with their local environment. We believe that the physical world and the digital world should not be separate entities, but a unified playground. We are building the bridge between the utility of local maps and the magic of immersive gaming.\n\nCommunity is the engine of our metaverse. We are devoted to fostering an ecosystem where Players are rewarded for their exploration (\"Shop-to-Earn\"), Creators can build their own digital assets, and Brands can tell immersive stories. Whether you are hunting for rare 'Brand Albums' or designing the next trending 3D sneaker, Otravers gives you the tools to shape this world.\n\nDriven by accessible innovation, we consistently explore cutting-edge technologies to make the metaverse useful for everyone.\n\nHeadquartered in Tunis, Otravers is just beginning its journey. In the future, we will continue to expand our map, integrating more cities, more interactive V.Shops, and deeper gameplay mechanics. Our goal is simple: to turn every street into an adventure and every transaction into an experience.",
       tags: [
         { name: "React", color: "blue-text-gradient" },
         { name: "Three.js", color: "pink-text-gradient" },

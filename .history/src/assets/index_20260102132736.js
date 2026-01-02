@@ -108,7 +108,6 @@ export {
   st,
   nethermind,
   darBlockchain,
-  otraLogo,
   bpp,
   halamint,
   carrent,

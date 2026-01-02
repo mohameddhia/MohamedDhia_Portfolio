@@ -57,8 +57,6 @@ import {
   hatem,
   golri,
   capte,
-  otravers,
-  otraLogo
 } from "../assets";
 
 export const navLinks = [
@@ -178,7 +176,7 @@ const experiences = [
   {
     title: "Chief Technology Officer (CTO)",
     company_name: "Otraverse",
-    icon: otraLogo, // Placeholder for Otraverse
+    icon: web, // Placeholder for Otraverse
     iconBg: "#383E56",
     date: "2025 - Present",
     points: [
@@ -276,20 +274,6 @@ const testimonials = [
 ];
 
 const projects = [
-    {
-      name: "Otravers",
-      description:
-        "A gamified metaverse platform that unifies local maps and immersive gaming, rewarding exploration and enabling users to create, shop, and interact in a digital playground.",
-      tags: [
-        { name: "React", color: "blue-text-gradient" },
-        { name: "Three.js", color: "pink-text-gradient" },
-        { name: "Gamification", color: "green-text-gradient" },
-        { name: "Web3", color: "yellow-text-gradient" },
-        { name: "Metaverse", color: "white-text-gradient" },
-      ],
-      image: otravers,
-      source_code_link: "https://otravers.com/",
-    },
   {
     name: "Golri",
     description:

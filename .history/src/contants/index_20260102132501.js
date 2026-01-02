@@ -58,7 +58,6 @@ import {
   golri,
   capte,
   otravers,
-  otraLogo
 } from "../assets";
 
 export const navLinks = [
@@ -178,7 +177,7 @@ const experiences = [
   {
     title: "Chief Technology Officer (CTO)",
     company_name: "Otraverse",
-    icon: otraLogo, // Placeholder for Otraverse
+    icon: web, // Placeholder for Otraverse
     iconBg: "#383E56",
     date: "2025 - Present",
     points: [

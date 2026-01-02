@@ -46,7 +46,7 @@ import st from "./company/stLogo.png";
 import nethermind from "./company/nethermind.png";
 import darBlockchain from "./company/darBlockchain.png";
 import bpp from "./company/blockplusplus.png";
-import otraLogo from "./company/otravers.png";
+import otraLogo 
 import halamint from "./company/halamint.svg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -108,7 +108,6 @@ export {
   st,
   nethermind,
   darBlockchain,
-  otraLogo,
   bpp,
   halamint,
   carrent,
