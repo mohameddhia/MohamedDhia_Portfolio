@@ -36,6 +36,10 @@ import {
   openZeppelin,
   chainLink,
   linux,
+  gsap,
+  postgresql,
+  prisma,
+  rust,
   meta,
   shopify,
   starbucks,
@@ -58,6 +62,9 @@ import {
   golri,
   capte,
   otravers,
+  eflada,
+  efladaPwa,
+  efladaLogo,
   otraLogo
 } from "../assets";
 
@@ -167,6 +174,22 @@ const technologies = [
   {
     name: "Linux",
     icon: linux,
+  },
+  {
+    name: "GSAP",
+    icon: gsap,
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgresql,
+  },
+  {
+    name: "Prisma",
+    icon: prisma,
+  },
+  {
+    name: "Rust",
+    icon: rust,
   },
   {
     name: "Redux",
@@ -290,6 +313,36 @@ const projects = [
       image: otravers,
       source_code_link: "https://otravers.com/",
     },
+  {
+    name: "Eflada Website",
+    description:
+      "Flight Aviation & Drone Academy website featuring 3D immersive experiences. Provides FAA Part 107 certification courses, exam simulators, and comprehensive drone pilot training resources.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "Three.js", color: "pink-text-gradient" },
+      { name: "GSAP", color: "green-text-gradient" },
+      { name: "NestJS", color: "red-text-gradient" },
+      { name: "Tailwind", color: "white-text-gradient" },
+    ],
+    image: eflada,
+    logo: efladaLogo,
+    source_code_link: "https://eflada.com/",
+  },
+  {
+    name: "Eflada PWA App",
+    description:
+      "Progressive Web App for drone pilot training with FAA Part 107 courses, real exam simulators, 3D flight map with restricted areas (Mapbox), live weather monitoring, and flight performance tracking.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "PostgreSQL", color: "green-text-gradient" },
+      { name: "Prisma", color: "white-text-gradient" },
+      { name: "NestJS", color: "red-text-gradient" },
+      { name: "PWA", color: "yellow-text-gradient" },
+    ],
+    image: efladaPwa,
+    logo: efladaLogo,
+    source_code_link: "https://app.eflada.com/",
+  },
   {
     name: "Golri",
     description:

@@ -14,6 +14,7 @@ const ProjectCard = ({
   description,
   tags,
   image,
+  logo,
   source_code_link
 }) => {
   return (
@@ -40,9 +41,9 @@ const ProjectCard = ({
               className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
             >
               <img 
-              src={github}
-              alt='github'
-              className='w-1/2 h-1/2 object-contain'
+                src={logo || github}
+                alt='link'
+                className='w-1/2 h-1/2 object-contain'
               />
             </div>
           </div>

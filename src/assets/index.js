@@ -37,7 +37,10 @@ import theGraph from "./tech/TheGraph.png";
 import chainLink from "./tech/chainLink.png";
 import openZeppelin from "./tech/OpenZeppelin.png";
 import linux from "./tech/linux.png";
-
+import gsap from "./tech/gsap.webp";
+import postgresql from "./tech/postgresql.webp";
+import prisma from "./tech/prisma.webp";
+import rust from "./tech/rust.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -62,6 +65,10 @@ import tripguide from "./tripguide.png";
 import mnif from "./mohamedMnif.jpg";
 import asma from "./asma.jpg";
 import hatem from "./hatem.png";
+import eflada from "./efladaProject.png";
+import efladaPwa from "./efladaPwaProject.png";
+import efladaLogo from "./efladaLogo.png";
+
 
 export {
   logo,
@@ -101,6 +108,10 @@ export {
   openZeppelin,
   chainLink,
   linux,
+  gsap,
+  postgresql,
+  prisma,
+  rust,
   meta,
   shopify,
   starbucks,
@@ -124,4 +135,7 @@ export {
   golri,
   capte,
   otravers,
+  eflada,
+  efladaPwa,
+  efladaLogo,
 };
